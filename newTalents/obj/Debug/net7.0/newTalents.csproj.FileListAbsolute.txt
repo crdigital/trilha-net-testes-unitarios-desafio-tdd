@@ -1,0 +1,14 @@
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\bin\Debug\net7.0\newTalents.exe
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\bin\Debug\net7.0\newTalents.deps.json
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\bin\Debug\net7.0\newTalents.runtimeconfig.json
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\bin\Debug\net7.0\newTalents.dll
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\bin\Debug\net7.0\newTalents.pdb
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\obj\Debug\net7.0\newTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\obj\Debug\net7.0\newTalents.AssemblyInfoInputs.cache
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\obj\Debug\net7.0\newTalents.AssemblyInfo.cs
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\obj\Debug\net7.0\newTalents.csproj.CoreCompileInputs.cache
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\obj\Debug\net7.0\newTalents.dll
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\obj\Debug\net7.0\refint\newTalents.dll
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\obj\Debug\net7.0\newTalents.pdb
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\obj\Debug\net7.0\newTalents.genruntimeconfig.cache
+C:\dio_bootcamp_dotnet_c#\testes\desafio\newTalents\obj\Debug\net7.0\ref\newTalents.dll
